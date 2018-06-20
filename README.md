@@ -7,6 +7,7 @@ The following Technologes Technologies Used:
 - Tomcat
 - MySQL
 - JSP
+- phpMyAdmin
 
 Whitelist:
 - Query a domain against a database whitelist of the top 1000 domain names (as collated by Cisco Umbrella Organization) If domain not     present, user-alert issued.
