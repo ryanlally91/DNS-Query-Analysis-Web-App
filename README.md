@@ -9,7 +9,7 @@ The following Technologes Technologies Used:
 - JSP
 
 Whitelist:
--Query a domain against a database whitelist of the top 1000 domain names (as collated by Cisco Umbrella Organization) – if domain not     present, user-alert issued.
+-Query a domain against a database whitelist of the top 1000 domain names (as collated by Cisco Umbrella Organization) If domain not     present, user-alert issued.
 - Ability to add domains to the whitelist
 
 If development was to continue with this component, a larger data set would be required and one which is non-static and is updated daily.
